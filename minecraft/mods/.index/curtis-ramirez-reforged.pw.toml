@@ -1,0 +1,16 @@
+filename = 'curtis_ramirez_reforged-1.1.0-neoforge-1.21.1.jar'
+name = 'Curtis Ramirez: Reforged'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '1df5070d482c0e5b5b87fad4b9c3d0b3ec5132a33567eecf808e544e0642909a53c5bd43d8665b3786f60bb484be332a81b10fdb47c8c32ef4ba3acbaae9a480'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jMNmaOQK/versions/YHMScRsS/curtis_ramirez_reforged-1.1.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'jMNmaOQK'
+version = 'YHMScRsS'

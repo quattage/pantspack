@@ -1,0 +1,11 @@
+/kubejs reload
+/reload
+/kubejs reload client-scripts
+/kubejs reload
+/reload
+/kubejs reload client-scripts
+/reload
+/kubejs reload client-scripts
+/kubejs reload
+/reload
+/gamemode creative

@@ -1,0 +1,16 @@
+filename = 'create_configured-1.3.4.jar'
+name = 'Create Configured'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '3171f8c386dbedb4e70de01c3f96b56ab247428fff930c89a3ce4ef37e6df4b72367b576596121c26471a1c8c648bda368afdcb43bef931ad1bc801fd9cf38f1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/TFEgPM26/versions/HaZGEnBD/create_configured-1.3.4.jar'
+
+[update.modrinth]
+mod-id = 'TFEgPM26'
+version = 'HaZGEnBD'
