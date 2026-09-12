@@ -1,3 +1,7 @@
+.git
+.gitattributes
+.gitignore
+README.md
 minecraft/Distant_Horizons_server_data
 minecraft/coremods
 minecraft/debug
@@ -6,3 +10,5 @@ minecraft/saves
 minecraft/schematics
 minecraft/screenshots
 minecraft/server-resource-packs
+server-icon
+server-icon.png

@@ -1,0 +1,6 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.PauseScreen": true
+  },
+  "hideBackground": {}
+}

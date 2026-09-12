@@ -2,7 +2,7 @@
 /minecraft/logs/*
 /minecraft/crash-reports/*
 /minecraft/debug/*
-/minecraft/.mixin-out/*
+/minecraft/.mixin.out/*
 /minecraft/ponders_watched.json
 /minecraft/ponders_watched_azimuth.json
 /minecraft/usercache.json
