@@ -12,7 +12,7 @@ darknessEffectScale:1.0
 glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
-fullscreen:false
+fullscreen:true
 gamma:0.5700000000000001
 graphicsMode:1
 guiScale:4
@@ -228,7 +228,7 @@ key_key.create_aeronautics_toolgun.open_menu:key.keyboard.tab
 key_key.create_aeronautics_toolgun.rotate_magnetic_object:key.keyboard.tab
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:0.5264900662251656
-soundCategory_music:0.1936619718309859
+soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0

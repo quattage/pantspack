@@ -1,0 +1,16 @@
+filename = 'clientsort-neoforge-3.89.0+1.21.1.jar'
+name = 'Client Sort'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '9dd7f97ab11035e819a4a96e83203c06e81ca2fd'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8821691
+project-id = 1049891

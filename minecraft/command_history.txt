@@ -9,3 +9,20 @@
 /kubejs reload
 /reload
 /gamemode creative
+/tp Oral_B_Glide
+/tp
+/tp MeatMoverMan
+/gamemode survival
+/difficult
+/difficulty hard
+/kick Oral_B_Glide
+/kick MeatMoverMan
+/difficulty hard
+/difficulty peaceful
+/difficulty hard
+/difficulty normal
+/difficulty peaceful
+/difficulty normal
+/gamemode survival
+/give @p minecraft:iron_pickaxe
+/tp Oral_B_Glide
