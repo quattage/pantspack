@@ -1,6 +1,42 @@
 {
   "allowMovement": {
-    "net.minecraft.client.gui.screens.PauseScreen": true
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "gg.moonflower.etched.client.screen.EtchingScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "io.github.mortuusars.exposure.client.gui.screen.LightroomScreen": true,
+    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true,
+    "net.createmod.ponder.foundation.ui.PonderUI": true,
+    "com.leclowndu93150.craftingstationjei.client.CraftingStationScreen": true,
+    "vectorwing.farmersdelight.client.gui.CookingPotScreen": true,
+    "de.maxhenkel.gravestone.gui.ObituaryScreen": true,
+    "com.simibubi.create.foundation.blockEntity.behaviour.ValueSettingsScreen": true,
+    "dev.latvian.mods.kubejs.client.KubeJSErrorScreen": true,
+    "net.minecraft.client.gui.screens.options.OptionsScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.ControlsScreen": true,
+    "net.minecraft.client.gui.screens.options.MouseSettingsScreen": true,
+    "net.minecraft.client.gui.screens.options.controls.KeyBindsScreen": true,
+    "de.maxhenkel.voicechat.gui.VoiceChatScreen": true,
+    "com.supermartijn642.core.gui.WidgetContainerScreen": true,
+    "vazkii.psi.client.gui.GuiProgrammer": true,
+    "vazkii.psi.client.gui.GuiCADAssembler": true,
+    "ianm1647.expandeddelight.client.gui.JuicerScreen": true,
+    "com.simibubi.create.content.redstone.link.controller.LinkedControllerScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "net.neoforged.neoforge.client.gui.ModListScreen": true
   },
-  "hideBackground": {}
+  "hideBackground": {
+    "gg.moonflower.etched.client.screen.EtchingScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "io.github.mortuusars.exposure.client.gui.screen.LightroomScreen": true,
+    "gg.moonflower.etched.client.screen.EditMusicLabelScreen": true,
+    "gg.moonflower.etched.client.screen.AlbumJukeboxScreen": true,
+    "com.leclowndu93150.craftingstationjei.client.CraftingStationScreen": true,
+    "vectorwing.farmersdelight.client.gui.CookingPotScreen": true,
+    "net.minecraft.client.gui.screens.social.SocialInteractionsScreen": true,
+    "com.supermartijn642.core.gui.WidgetContainerScreen": true,
+    "vazkii.psi.client.gui.GuiCADAssembler": true,
+    "ianm1647.expandeddelight.client.gui.JuicerScreen": true,
+    "com.simibubi.create.content.redstone.link.controller.LinkedControllerScreen": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true
+  }
 }

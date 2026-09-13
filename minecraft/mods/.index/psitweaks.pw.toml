@@ -1,0 +1,16 @@
+filename = 'psitweaks-1.21.1-0.10.8-hotfix.jar'
+name = 'Psi: Tweaks and Additions'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+
+[download]
+hash = 'ed0ad9db6d2453660f8ec96e3a6b4aa5261ed9db'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8839085
+project-id = 1458446

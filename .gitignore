@@ -1,12 +1,16 @@
+/minecraft/config/ars_nouveau/search_index/*
 /minecraft/saves/*
 /minecraft/logs/*
 /minecraft/crash-reports/*
 /minecraft/debug/*
 /minecraft/.mixin.out/*
+/minecraft/Distant_Horizons_server_data/*
+/minecraft/cache/*
+/minecraft/downloads/*
 /minecraft/ponders_watched.json
 /minecraft/ponders_watched_azimuth.json
 /minecraft/usercache.json
 /minecraft/usernamecache.json
-/minecraft/Distant_Horizons_server_data/*
 /minecraft/servers.dat_old
 /minecraft/servers.dat
+/minecraft/command-history.txt

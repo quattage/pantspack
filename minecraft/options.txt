@@ -50,7 +50,7 @@ highContrast:false
 narratorHotkey:true
 resourcePacks:["vanilla","mod_resources","black_icons","file/Better-Leaves-9.5.zip"]
 incompatibleResourcePacks:[]
-lastServer:localhost:25571
+lastServer:108.28.82.111:2557
 lang:en_us
 chatVisibility:0
 chatOpacity:1.0
@@ -129,6 +129,12 @@ key_iris.keybind.wireframe:key.keyboard.unknown
 key_simulated.keyinfo.rotate_mode:key.keyboard.tab
 key_simulated.keyinfo.scroll_up:key.keyboard.unknown
 key_simulated.keyinfo.scroll_down:key.keyboard.unknown
+key_key.clientsort.edit:key.keyboard.unknown
+key_key.clientsort.cancelAuto:key.keyboard.unknown
+key_key.clientsort.op.sort:key.mouse.middle
+key_key.clientsort.op.stackFill:key.keyboard.unknown
+key_key.clientsort.op.matchTransfer:key.keyboard.unknown
+key_key.clientsort.op.transfer:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
 key_key.ok_zoomer.zoom:key.keyboard.c
 key_key.ok_zoomer.decrease_zoom:key.keyboard.unknown
@@ -227,6 +233,7 @@ key_dndesires.keyinfo.drill_active:key.keyboard.left.alt
 key_key.create_aeronautics_toolgun.open_menu:key.keyboard.tab
 key_key.create_aeronautics_toolgun.rotate_magnetic_object:key.keyboard.tab
 key_key.entityculling.toggle:key.keyboard.unknown
+key_keybind.invmove.toggleMove:key.keyboard.unknown
 soundCategory_master:0.5264900662251656
 soundCategory_music:0.0
 soundCategory_record:1.0
