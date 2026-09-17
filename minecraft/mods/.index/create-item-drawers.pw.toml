@@ -1,0 +1,16 @@
+filename = 'create_item_drawers-mc1.21.1+1.2.2.jar'
+name = 'Create: Item Drawers'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'b193dfa407a19e89a203aac1a13e95dc88cccac2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8118133
+project-id = 1425713

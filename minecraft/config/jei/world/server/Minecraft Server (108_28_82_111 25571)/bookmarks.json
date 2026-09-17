@@ -1,4 +1,5 @@
 [
   {"version":2},
-  {"ingredient":{"id":"create:empty_blaze_burner"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"create:empty_blaze_burner"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:stone"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

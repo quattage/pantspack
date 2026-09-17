@@ -5,7 +5,10 @@
 /minecraft/debug/*
 /minecraft/.mixin.out/*
 /minecraft/Distant_Horizons_server_data/*
+/minecraft/enxv_aeronautics_structures/*
+/minecraft/etched-sounds/*
 /minecraft/cache/*
+/minecraft/local/*
 /minecraft/downloads/*
 /minecraft/ponders_watched.json
 /minecraft/ponders_watched_azimuth.json

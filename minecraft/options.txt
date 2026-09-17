@@ -232,11 +232,12 @@ key_dndesires.keyinfo.saw_active:key.keyboard.left.alt
 key_dndesires.keyinfo.drill_active:key.keyboard.left.alt
 key_key.create_aeronautics_toolgun.open_menu:key.keyboard.tab
 key_key.create_aeronautics_toolgun.rotate_magnetic_object:key.keyboard.tab
+key_key.tracks.open_tuning:key.keyboard.j
 key_key.entityculling.toggle:key.keyboard.unknown
 key_keybind.invmove.toggleMove:key.keyboard.unknown
 soundCategory_master:0.5264900662251656
-soundCategory_music:0.0
-soundCategory_record:1.0
+soundCategory_music:0.3926056338028169
+soundCategory_record:0.07394366197183098
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0

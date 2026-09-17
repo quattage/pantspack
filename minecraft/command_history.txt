@@ -1,0 +1,33 @@
+/give @p create_aeronautics_toolgun:creative_magnetic_gun
+/give @p create_aeronautics_toolgun:magnetic_gun
+/give Oral_B_Glide ars_nouveau:planarium
+/give @p minecraft:cut_copper 64
+/gamemode creative
+/gamemode survival
+/give Oral_B_Glide ars_nouveau:planarium
+/give Oral_B_Glide minecraft:anvil
+/give @p bits_n_bobs:lightbulb 64
+/give @p create:cut_veridium 64
+/give @p create:rope_pulley
+/give @p create:mechanical_drill 10
+/give @p simulated:directional_gearshift
+/give @p create:linked_controller
+/give @p create:large_water_wheel 2
+/give @p simulated:directional_gearshift
+/give @p dndesires:omni_speed_controller
+/give @p minecraft:water_bucket 3
+/give @p minecraft:water_bucket 1
+/give @p lectern
+/give MeatMoverMan minecraft:apple 256
+/give MeatMoverMan minecraft:apple 1024
+/restore MeatMoverMan 48a6cdbb-93ce-4896-9c19-57efc0595bbb
+/restore MeatMoverMan 48a6cdbb-93ce-4896-9c19-57efc0595bbb add
+/restore MeatMoverMan 48a6cdbb-93ce-4896-9c19-57efc0595bbb replace
+/restore MeatMoverMan 5790d303-56d0-4a21-aa5c-3826edd305b9 replace
+/restore MeatMoverMan c49f9b79-86f0-492a-bf10-cd982adc5792 replace
+/restore MeatMoverMan c508f33c-8aa6-4f31-b258-5a5b8a5c6996 replace
+/restore MeatMoverMan 48a6cdbb-93ce-4896-9c19-57efc0595bbb replace
+/restore MeatMoverMan 5790d303-56d0-4a21-aa5c-3826edd305b9 replace
+/restore MeatMoverMan 718a4061-6185-490c-9d92-ab063c1290a0 replace
+/restore MeatMoverMan a17d6262-bab7-4531-9b46-040a3f5266e1 replace
+/give @p minecraft:ancient_debris 5

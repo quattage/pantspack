@@ -1,0 +1,16 @@
+filename = 'oc2-MC1.21.1-neoforge-0.5.0+c71b690.jar'
+name = 'OpenComputers II'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'd1e36c377c3e60e8b9e335db9cd2e9339b814f26c28d3754d861e3d7f62eee576e1776617449a889d6b71c45d028e72d45efecf3889acf2a99e8d63148ca36a4'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/xkOonJ4E/versions/mLwcv8Rf/oc2-MC1.21.1-neoforge-0.5.0%2Bc71b690.jar'
+
+[update.modrinth]
+mod-id = 'xkOonJ4E'
+version = 'mLwcv8Rf'

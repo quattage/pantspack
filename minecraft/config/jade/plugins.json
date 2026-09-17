@@ -69,6 +69,11 @@
   "enderio": {
     "soul_bound": true
   },
+  "create_item_drawers": {
+    "display.upgrade": true,
+    "main": true,
+    "display.empty": true
+  },
   "jade": {
     "coordinates.rel": false,
     "registry_name.special": false,

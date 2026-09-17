@@ -22,7 +22,10 @@
     "ianm1647.expandeddelight.client.gui.JuicerScreen": true,
     "com.simibubi.create.content.redstone.link.controller.LinkedControllerScreen": true,
     "top.theillusivec4.curios.client.gui.CuriosScreen": true,
-    "net.neoforged.neoforge.client.gui.ModListScreen": true
+    "net.neoforged.neoforge.client.gui.ModListScreen": true,
+    "com.enxv.aeronauticsstructuretool.client.screen.ToolModeScreen": true,
+    "net.caffeinemc.mods.sodium.client.gui.VideoSettingsScreen": true,
+    "net.minecraft.client.gui.screens.options.SoundOptionsScreen": true
   },
   "hideBackground": {
     "gg.moonflower.etched.client.screen.EtchingScreen": true,
@@ -37,6 +40,9 @@
     "vazkii.psi.client.gui.GuiCADAssembler": true,
     "ianm1647.expandeddelight.client.gui.JuicerScreen": true,
     "com.simibubi.create.content.redstone.link.controller.LinkedControllerScreen": true,
-    "top.theillusivec4.curios.client.gui.CuriosScreen": true
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "com.enxv.aeronauticsstructuretool.client.screen.ToolModeScreen": true,
+    "com.enxv.aeronauticsstructuretool.client.screen.QueryVehicleTeleportScreen": true,
+    "com.enxv.aeronauticsstructuretool.client.screen.SaveNameScreen": true
   }
 }
